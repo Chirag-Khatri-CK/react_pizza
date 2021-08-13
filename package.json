@@ -37,7 +37,6 @@
             "last 1 safari version"
         ]
     },
-    "proxy": "https://star-spark-pasta.glitch.me/",
     "devDependencies": {
         "gh-pages": "^3.2.3"
     }
